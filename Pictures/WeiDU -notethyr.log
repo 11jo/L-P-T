@@ -1,0 +1,16 @@
+// Log of Currently Installed WeiDU Mods
+// The top of the file is the 'oldest' mod
+// ~TP2_File~ #language_number #component_number // [Subcomponent Name -> ] Component Name [ : Version]
+~ALORA/ALORA.TP2~ #3 #0 // Alora PNJ de Chosen of Mystra: 2.1
+~AURENASEPH/SETUP-AURENASEPH.TP2~ #3 #0 // Auren Aseph pour BG2:ToB: v12
+~KIVAN/SETUP-KIVAN.TP2~ #0 #100 // Kivan of Shilmista: v19
+~NEPHELE/NEPHELE.TP2~ #0 #0 // Nephele NPC Mod for BGII: SoA & ToB: v2.7
+~XAN/XAN.TP2~ #3 #0 // PNJ Xan, module pour Baldur's Gate II: v19
+~YESLICKNPC/YESLICKNPC.TP2~ #0 #1 // Yeslick NPC for BGII: SoA & ToB -> Yeslick is a Fighter-Alaghor of Clangeddin (cleric kit): v5.1
+~JOINING_PARTY_SELECT/JOINING_PARTY_SELECT.TP2~ #0 #10 // Continuous original NPCs (Imoen, Edwin, Jaheira, Minsc, Viconia, Dorn, Neera, Rasaad): 
+~JOINING_PARTY_SELECT/JOINING_PARTY_SELECT.TP2~ #0 #70 // Original bg2 NPCs (Anomen, Aerie, Cernd, Haerdalis, Hexxat, Jan, Keldorn, Korgan, Mazzy, Nalia, Sarevok, Valygar, Wilson, Yoshimo): 
+~JOINING_PARTY_SELECT/JOINING_PARTY_SELECT.TP2~ #0 #0 // All-Out: 
+~JOINING_PARTY_SELECT/JOINING_PARTY_SELECT.TP2~ #0 #1 // All-In: 
+~STRATAGEMS/SETUP-STRATAGEMS.TP2~ #5 #4190 // Rendre la Tour de Garde accessible entre les parties les Ombres de l'Amn et le Trone de Bhaal du jeu (attention : ceci la rendra inaccessible jusqu'a la fin de la partie les Ombres de l'Amn du jeu): 35.21
+~BP-BGT-WORLDMAP/SETUP-BP-BGT-WORLDMAP.TP2~ #0 #0 // Worldmap for Baldur's Gate - including colored Baldur's Gate map icons: v13.1.1
+~BP-BGT-WORLDMAP/SETUP-BP-BGT-WORLDMAP.TP2~ #0 #1 // Worldmap for Throne of Bhaal -> Use new Worldmap for Throne of Bhaal as well: v13.1.1
